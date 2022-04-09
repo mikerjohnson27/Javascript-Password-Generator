@@ -1,4 +1,3 @@
-Live Preview: https://mikerjohson27.github.io/Javascript-Password-Generator/
 Hello,
 This is my password generator for my project please view any notes that have been added to the javascript file. This will generate a random password that has requirements for special charactors, upper and lower case letters and numbers. All you have to do is open the index.html file in your browser press generate password. 
 Generate password button:
